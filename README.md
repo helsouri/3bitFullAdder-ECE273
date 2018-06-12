@@ -2,7 +2,7 @@
 The purpose of this lab was to design a 3 bit full adder using two's compliment. <br> <br>
 The design was made using **Xylinx software along with PlanAhead** and implemented on a **BASYS2 FPGA Board** <br> <br>
 Files available are:<br>
-  1) Pdf report <br>
+  1) Pdf report that contains all of the below along with procedure <br>
   2) Module to show architectural behavior or full adder (FA) <br>
   3) PlanAhead Generated Physical constraints <br>
   4) Test bench code to test a few sample example <br>
