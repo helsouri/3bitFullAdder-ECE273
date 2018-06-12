@@ -1,0 +1,9 @@
+architecture Behavioral of adder is
+
+begin
+
+Sum <= X XOR Y XOR Cin;
+
+Cout <= (X AND Cin) OR (Y AND Cin) OR (X AND Y);
+
+end Behavioral;
